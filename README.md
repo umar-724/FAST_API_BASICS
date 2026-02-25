@@ -11,3 +11,4 @@ uvicorn main:app --reload
 
 my name is Umar
 I'm trying for self learning
+ tic tick tick
